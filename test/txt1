@@ -1,0 +1,2 @@
+sport = soccer
+print(sport)
