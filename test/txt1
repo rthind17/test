@@ -1,2 +1,2 @@
-sport = soccer
+sport = 'soccer'
 print(sport)
